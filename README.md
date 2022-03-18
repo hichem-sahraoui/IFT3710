@@ -1,4 +1,4 @@
-# IFT3710
+# Analyzing the performance of transfer learning with different EEG datasets (IFT3710)
 
 TITLE: Analyzing the performance of transfer learning with different EEG datasets
 
